@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674443107435",
+    "project_id": "aware-be6de",
+    "storage_bucket": "aware-be6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674443107435:android:26b13ca8d66b23fc8f252e",
+        "android_client_info": {
+          "package_name": "com.example.drugaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674443107435-vjhnop7edgr4btaivqh1jblkirqqnko0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtDx9eT3OilGsiNJa3bWY1GuAs5l-dLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674443107435-vjhnop7edgr4btaivqh1jblkirqqnko0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
