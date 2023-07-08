@@ -1,16 +1,10 @@
-# aware
+# Drug Aware
 
-A new Flutter project.
+Implement a system to control drug Abuse inside and outside the campus with the help of social media APIs and AI Chatbot algorithms and the Flutter platform
 
-## Getting Started
+## App UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-04-27 at 12 00 50](https://github.com/Ajmalva/DrugAware/assets/84183186/353c6d35-8c06-4d26-8985-4d1461853eca)
+![WhatsApp Image 2023-04-27 at 12 00 51](https://github.com/Ajmalva/DrugAware/assets/84183186/9c556c3a-a595-49ca-a6ea-9e13501bd932)
+![WhatsApp Image 2023-04-27 at 12 03 50](https://github.com/Ajmalva/DrugAware/assets/84183186/4155fdf2-9f0e-47dc-a373-5e58123ffbd6)
+![WhatsApp Image 2023-04-27 at 12 00 07](https://github.com/Ajmalva/DrugAware/assets/84183186/14c9c054-f935-4b44-8b56-41d8925aafa7)
